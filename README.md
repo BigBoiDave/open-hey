@@ -1,4 +1,4 @@
-# Talkalot
+# Open Hey
 
 An open source social network made with NodeJS & Express.
 
